@@ -1,0 +1,1 @@
+# Asp.NetCore-Elasticsearch-Kibana-Serilog
