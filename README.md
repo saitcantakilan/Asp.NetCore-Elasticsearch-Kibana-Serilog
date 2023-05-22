@@ -10,6 +10,6 @@ Sevgiler.
 
 ## Doküman
 
-[Doküman](https://https://saitcantakilan.medium.com/asp-net-core-elasticsearch-kibana-ile-serilog-entegrasyonu-f44e45cb12b9)
+[Doküman](https://saitcantakilan.medium.com/asp-net-core-elasticsearch-kibana-ile-serilog-entegrasyonu-f44e45cb12b9)
 
   
